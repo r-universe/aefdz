@@ -8,3 +8,8 @@
 	url = https://github.com/aefdz/fdapoifd
 	shallow = true
 	registered = true
+[submodule "localFDA"]
+	path = localFDA
+	url = https://github.com/aefdz/localfda
+	shallow = true
+	registered = true
