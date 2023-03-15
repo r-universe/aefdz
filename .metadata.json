@@ -1,10 +1,10 @@
 [
   {
-    "package": "fdaPOIFD",
+    "package": "localFDA",
     "oncran": true
   },
   {
-    "package": "localFDA",
+    "package": "fdaPOIFD",
     "oncran": true
   }
 ]
