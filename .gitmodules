@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "localFDA"]
-	path = localFDA
-	url = https://github.com/aefdz/localfda
-	shallow = true
-	registered = true
 [submodule "fdaPOIFD"]
 	path = fdaPOIFD
 	url = https://github.com/aefdz/fdapoifd
+	shallow = true
+	registered = true
+[submodule "localFDA"]
+	path = localFDA
+	url = https://github.com/aefdz/localfda
 	shallow = true
 	registered = true
